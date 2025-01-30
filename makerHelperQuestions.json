@@ -1,0 +1,92 @@
+[
+  {
+    "Title": "How many users will use my app ?",
+    "Order": "1",
+    "ID": "1",
+    "Axis": "Impact"
+  },
+  {
+    "Title": "Do I know who will use my app ?",
+    "Order": "3",
+    "ID": "3",
+    "Axis": "Impact"
+  },
+  {
+    "Title": "Is there any externals that will use my app ?",
+    "Order": "5",
+    "ID": "5",
+    "Axis": "Impact"
+  },
+  {
+    "Title": "Is it a problem is my app is offline during ?",
+    "Order": "7",
+    "ID": "6",
+    "Axis": "Impact"
+  },
+  {
+    "Title": "Is my app will use sensitive data ?",
+    "Order": "8",
+    "ID": "7",
+    "Axis": "Impact"
+  },
+  {
+    "Title": "Is maker team is able to handle support",
+    "Order": "9",
+    "ID": "8",
+    "Axis": "Impact"
+  },
+  {
+    "Title": "Is there any customers that will use app",
+    "Order": "6",
+    "ID": "9",
+    "Axis": "Impact"
+  },
+  {
+    "Title": "Do you have any premium connector ?",
+    "Order": "10",
+    "ID": "12",
+    "Axis": "Difficulty"
+  },
+  {
+    "Title": "Is the architecture is simple ?",
+    "Order": "13",
+    "ID": "14",
+    "Axis": "Difficulty"
+  },
+  {
+    "Title": "Is ALM mandatory for the project ?",
+    "Order": "15",
+    "ID": "15",
+    "Axis": "Difficulty"
+  },
+  {
+    "Title": "Is there any pro dev involved ?",
+    "Order": "16",
+    "ID": "16",
+    "Axis": "Difficulty"
+  },
+  {
+    "Title": "Is maker team can work without supervision ?",
+    "Order": "17",
+    "ID": "17",
+    "Axis": "Difficulty"
+  },
+  {
+    "Title": "My App mainly use :",
+    "Order": "12",
+    "ID": "18",
+    "Axis": "Difficulty"
+  },
+  {
+    "Title": "How many user stories I have ?",
+    "Order": "11",
+    "ID": "19",
+    "Axis": "Difficulty"
+  },
+  {
+    "Title": "How many time do I have for the first version ?",
+    "Order": "14",
+    "ID": "20",
+    "Axis": "Difficulty"
+  }
+]
