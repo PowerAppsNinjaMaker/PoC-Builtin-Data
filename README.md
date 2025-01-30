@@ -20,3 +20,9 @@ In this presentation, I will discuss the fourth option: leveraging JSON files ho
 The proposed architecture indicates that the application will be premium. Fortunately, this will not pose a problem within your development environment, allowing you to effectively leverage all the capabilities of PowerApps.
 
 In conclusion, utilizing JSON hosted on GitHub for data integration in a PowerApps PoC is a practical choice that enhances flexibility, ease of use, and collaborative features, making it an ideal solution for your application development needs.
+
+## Flow to get JSON
+
+As you can see it's a really simple flow
+
+![image](https://github.com/user-attachments/assets/72a2ff44-8487-44ca-865b-4c49f87359a9)
