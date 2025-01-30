@@ -1,1 +1,98 @@
-[   {     "Impact": "4",     "Difficulty": "1",     "Color": "3",     "Order": "1"   },   {     "Impact": "4",     "Difficulty": "2",     "Color": "3",     "Order": "2"   },   {     "Impact": "4",     "Difficulty": "3",     "Color": "4",     "Order": "3"   },   {     "Impact": "4",     "Difficulty": "4",     "Color": "4",     "Order": "4"   },   {     "Impact": "3",     "Difficulty": "1",     "Color": "2",     "Order": "5"   },   {     "Impact": "3",     "Difficulty": "2",     "Color": "2",     "Order": "6"   },   {     "Impact": "3",     "Difficulty": "3",     "Color": "3",     "Order": "7"   },   {     "Impact": "3",     "Difficulty": "4",     "Color": "4",     "Order": "8"   },   {     "Impact": "2",     "Difficulty": "1",     "Color": "1",     "Order": "9"   },   {     "Impact": "2",     "Difficulty": "2",     "Color": "1",     "Order": "10"   },   {     "Impact": "2",     "Difficulty": "3",     "Color": "3",     "Order": "11"   },   {     "Impact": "2",     "Difficulty": "3",     "Color": "4",     "Order": "12"   },   {     "Impact": "1",     "Difficulty": "1",     "Color": "1",     "Order": "13"   },   {     "Impact": "1",     "Difficulty": "2",     "Color": "1",     "Order": "14"   },   {     "Impact": "1",     "Difficulty": "3",     "Color": "1",     "Order": "15"   },   {     "Impact": "1",     "Difficulty": "4",     "Color": "3",     "Order": "16"   } ]
+[
+  {
+    "Impact": "4",
+    "Difficulty": "1",
+    "Color": "3",
+    "Order": "1"
+  },
+  {
+    "Impact": "4",
+    "Difficulty": "2",
+    "Color": "3",
+    "Order": "2"
+  },
+  {
+    "Impact": "4",
+    "Difficulty": "3",
+    "Color": "4",
+    "Order": "3"
+  },
+  {
+    "Impact": "4",
+    "Difficulty": "4",
+    "Color": "4",
+    "Order": "4"
+  },
+  {
+    "Impact": "3",
+    "Difficulty": "1",
+    "Color": "2",
+    "Order": "5"
+  },
+  {
+    "Impact": "3",
+    "Difficulty": "2",
+    "Color": "2",
+    "Order": "6"
+  },
+  {
+    "Impact": "3",
+    "Difficulty": "3",
+    "Color": "3",
+    "Order": "7"
+  },
+  {
+    "Impact": "3",
+    "Difficulty": "4",
+    "Color": "4",
+    "Order": "8"
+  },
+  {
+    "Impact": "2",
+    "Difficulty": "1",
+    "Color": "1",
+    "Order": "9"
+  },
+  {
+    "Impact": "2",
+    "Difficulty": "2",
+    "Color": "1",
+    "Order": "10"
+  },
+  {
+    "Impact": "2",
+    "Difficulty": "3",
+    "Color": "3",
+    "Order": "11"
+  },
+  {
+    "Impact": "2",
+    "Difficulty": "3",
+    "Color": "4",
+    "Order": "12"
+  },
+  {
+    "Impact": "1",
+    "Difficulty": "1",
+    "Color": "1",
+    "Order": "13"
+  },
+  {
+    "Impact": "1",
+    "Difficulty": "2",
+    "Color": "1",
+    "Order": "14"
+  },
+  {
+    "Impact": "1",
+    "Difficulty": "3",
+    "Color": "1",
+    "Order": "15"
+  },
+  {
+    "Impact": "1",
+    "Difficulty": "4",
+    "Color": "3",
+    "Order": "16"
+  }
+]
