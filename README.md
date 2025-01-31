@@ -23,6 +23,10 @@ In conclusion, utilizing JSON hosted on GitHub for data integration in a PowerAp
 
 ## Flow to get JSON
 
-As you can see it's a really simple flow
+As you can see it's a really simple flow.
 
 ![image](https://github.com/user-attachments/assets/72a2ff44-8487-44ca-865b-4c49f87359a9)
+
+## Usage
+
+You have to import the solution.
